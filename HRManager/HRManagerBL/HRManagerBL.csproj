@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HRManagerCommon\HRManagerCommon.csproj" />
+    <ProjectReference Include="..\HRManagerEntities\HRManagerEntities.csproj" />
+  </ItemGroup>
+
+</Project>
